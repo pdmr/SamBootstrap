@@ -3,7 +3,7 @@ Implements SAM analysis for full data sets and related subsets
 
 Sam Bootstrap v0.1 - July 30, 2019
 
-Introduction
+==Introduction==
 The SamBootstrap tool is aimed at implementing SAM (Statistical Analysis of Microarrays) on a data set and on its subsets for bootstrap validation.
 It is based on the SAMR tool and on some additional shell and PHP scripts.
 
